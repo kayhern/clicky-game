@@ -7,6 +7,27 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+#nav {
+  color: rgb(87, 13, 87) !important;
+}
+
+#footer {
+  background-color: black;
+  color: #ffffff;
+  text-align: center;
+  padding-top: 50px;
+  margin-top: 100px;
+  border-top-style: solid;
+  border-top-color: rgb(87, 13, 87) !important;
+  border-top-width: 10px;
+  bottom: 0;
+  width: 100% !important;
+}
+
+#jumbotron {
+  color: rgb(87, 13, 87) !important;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
