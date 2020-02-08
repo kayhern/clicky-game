@@ -1,0 +1,61 @@
+[{
+        "id": 1,
+        "name": "Bart",
+        "image": "https://vignette.wikia.nocookie.net/simpsons/images/6/65/Bart_Simpson.png/revision/latest/top-crop/width/200/height/150?cb=20190409004756"
+    },
+    {
+        "id": 2,
+        "name": "Homer",
+        "image": "https://vignette.wikia.nocookie.net/simpsons/images/0/02/Homer_Simpson_2006.png/revision/latest/top-crop/width/200/height/150?cb=20190409004803"
+    },
+    {
+        "id": 3,
+        "name": "Edna",
+        "image": "https://vignette.wikia.nocookie.net/simpsons/images/7/76/Edna_Krabappel.png/revision/latest/top-crop/width/200/height/150?cb=20180723220624"
+    },
+    {
+        "id": 4,
+        "name": "Lisa",
+        "image": "https://vignette.wikia.nocookie.net/simpsons/images/d/d5/Lisa_Simpson_official.png/revision/latest/top-crop/width/200/height/150?cb=20190409004811"
+    },
+    {
+        "id": 5,
+        "name": "Marge",
+        "image": "https://vignette.wikia.nocookie.net/simpsons/images/5/5a/Marge%27s_demons_%28Some_Enchanted_Evening%29.png/revision/latest/scale-to-width-down/700?cb=20130527193036"
+    },
+    {
+        "id": 6,
+        "name": "Patty",
+        "image": "https://vignette.wikia.nocookie.net/simpsons/images/b/ba/Selma_Bouvier.png/revision/latest/scale-to-width-down/180?cb=20140826210408"
+    },
+    {
+        "id": 7,
+        "name": "Maya",
+        "image": "https://vignette.wikia.nocookie.net/simpsons/images/3/3f/Maya.jpg/revision/latest/scale-to-width-down/521?cb=20111214170905"
+    },
+    {
+        "id": 8,
+        "name": "Bob",
+        "image": "https://vignette.wikia.nocookie.net/simpsons/images/0/08/200px-Sideshow_Bob.png/revision/latest/scale-to-width-down/180?cb=20130418205543"
+    },
+    {
+        "id": 9,
+        "name": "Millhouse",
+        "image": "https://vignette.wikia.nocookie.net/simpsons/images/9/91/Milhouse_Van_Houten_2.png/revision/latest?cb=20180429212659"
+    },
+    {
+        "id": 10,
+        "name": "Ralph",
+        "image": "https://vignette.wikia.nocookie.net/simpsons/images/1/14/Ralph_Wiggum.png/revision/latest?cb=20100704163100"
+    },
+    {
+        "id": 11,
+        "name": "Willie",
+        "image": "https://vignette.wikia.nocookie.net/simpsons/images/9/9d/Groundskeeper_Willie.png/revision/latest?cb=20130424154035"
+    },
+    {
+        "id": 12,
+        "name": "Penelope",
+        "image": "https://vignette.wikia.nocookie.net/simpsons/images/2/27/Princess_Penelope_tapped_out.png/revision/latest?cb=20141121025838"
+    }
+]
