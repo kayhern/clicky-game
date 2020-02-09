@@ -23,7 +23,7 @@ class Game extends Component {
         //ensuring clicked image correlated with the proper id
         console.log(id);
         let clickedFriendsIds = this.state.clickedFriendsIds;
-        //shuffle the images when they get clicked
+        //adjust score
         if (clickedFriendsIds.includes(id)) {
             console.log(clickedFriendsIds)
             this.setState({ clickedFriendsIds: [], score: 0, highScore: clickedFriendsIds.length });
@@ -49,7 +49,7 @@ class Game extends Component {
         }
 
     };
-    //show the contents on the page
+    //show the contents on the page; pull in the components: Header, Characters, Wrapper, Score, Footer
     render() {
         return (
             <div>

@@ -1,3 +1,4 @@
+//original staging area for the app but no longer needed 
 import React from "react";
 
 function Clicky() {
