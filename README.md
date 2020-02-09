@@ -29,4 +29,4 @@ This is a memory game. The goal for the user is to be able to click on all of th
 
 ## Links
 1. Repo: https://github.com/kayhern/clicky-game
-1. Game:
+1. Game Deployed: https://limitless-tor-36798.herokuapp.com/
