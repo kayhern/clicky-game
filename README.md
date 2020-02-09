@@ -11,6 +11,14 @@ This is a memory game. The goal for the user is to be able to click on all of th
 1. CSS
 1. Bootstrap
 
+## Components
+1. Footer
+1. Header
+1. Images
+1. Wrapper
+1. Scores
+1. Game.js - this contains the functions for making the clicky game work and updating the user score
+
 ## How to Use the App
 1. Deploy the app
 1. Start Clicking on Images
