@@ -1,4 +1,6 @@
 //my tutor recommended all of the code going here then calling this whole thing in the App.js file
+//some of this code was borrowed from the card activity from class
+//setState was used to change the score: https://reactjs.org/docs/react-component.html#setstate
 import React, { Component } from "react";
 import Characters from "./Images";
 import Wrapper from "./Wrapper";
