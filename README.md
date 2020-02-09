@@ -19,6 +19,6 @@ This is a memory game. The goal for the user is to be able to click on all of th
 
 ## Video of Game Functioning
 
-##Links
+## Links
 1. Repo: https://github.com/kayhern/clicky-game
 1. Game:
